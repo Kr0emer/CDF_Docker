@@ -1,6 +1,6 @@
 由于cdf项目比较古早，很多环境已经失效了，我针对cdf做了一个docker环境，以便于自己以及需要的人使用，进入cdf目录
 #构建docker
-docker build -t cdf-env-1 .
+docker build -t cdf-env .
 
 
 #使用docker
